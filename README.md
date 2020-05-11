@@ -23,8 +23,12 @@ with interfacer.jupyter_helper.cellplot(width=800, height=640):
     interfacer.descdist.descdist(bra.new_cases, boot = 250)
 ```
 
+<div align="center">
+    <img src="image/image.png">
+</div>
+
 > Note que pode ser necessário configurar o ambiente R e Python juntos, recomenda-se o Anaconda para gerenciar os pacotes de R e Python
 
 ### Sobre
 
-Pacote criado por Felipe Menino Carlos para facilitar as atividades desenvolvidas na aula de Matemática Computacional.
+Pacote criado por Felipe Menino para facilitar as atividades desenvolvidas na aula de Matemática Computacional.
