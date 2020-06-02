@@ -9,10 +9,10 @@ try:
 except:
     raise ModuleNotFoundError("É necessário instalar o pacote fitdistrplus no ambiente R")
 
-def descdist(data: pd.Series, **kwargs):
-    """descdist
+def fitdist(data: pd.Series, **kwargs):
+    """fitdist
     See:
         https://cran.r-project.org/web/packages/fitdistrplus/fitdistrplus.pdf
     """
     rdf = pandas2ri.py2rpy(data)
-    fitdistrplus.descdist(rdf,  **kwargs)
+    fitdistrplus.fitdist(rdf,  **kwargs)
