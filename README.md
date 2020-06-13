@@ -1,8 +1,18 @@
-# interfacer-descdist
+# interfacer - fitdistplus
 
-Pacote para facilitar a utilização do [descdist](https://www.rdocumentation.org/packages/fitdistrplus/versions/1.0-14/topics/descdist) em Python
+Pacote para facilitar a utilização de algumas funcionalidades do [fitdistrplus](https://cran.r-project.org/web/packages/fitdistrplus/index.html) em Python.
+
+### Funcionalidades
+
+Atualmente, estão disponíveis no pacote as seguintes funcionalidades:
+
+- [plotdist](https://www.rdocumentation.org/packages/fitdistrplus/versions/1.1-1/topics/plotdist);
+- [fitdist](https://www.rdocumentation.org/packages/fitdistrplus/versions/0.1-3/topics/fitdist);
+- [descdist](https://www.rdocumentation.org/packages/fitdistrplus/versions/1.1-1/topics/descdist).
 
 ### Instalação
+
+A instalação do pacote pode ser feita via pip, como apresentado abaixo
 
 ```shell
 pip install interfacer
