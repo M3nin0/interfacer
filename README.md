@@ -34,7 +34,7 @@ with interfacer.jupyter_helper.cellplot(width=800, height=640):
 ```
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/M3nin0/interfacer/master/image/image.png">
+    <img src="https://github.com/M3nin0/interfacer/blob/master/image/image.png">
 </div>
 
 > Note que pode ser necessário configurar o ambiente R e Python juntos, recomenda-se o Anaconda para gerenciar os pacotes de R e Python
