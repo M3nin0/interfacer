@@ -34,11 +34,11 @@ with interfacer.jupyter_helper.cellplot(width=800, height=640):
 ```
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/M3nin0/interfacer-descdist/master/image/image.png?token=AEB7NZM4BQC3LXW4BV234EK6YMAT4">
+    <img src="https://raw.githubusercontent.com/M3nin0/interfacer/master/image/image.png">
 </div>
 
 > Note que pode ser necessário configurar o ambiente R e Python juntos, recomenda-se o Anaconda para gerenciar os pacotes de R e Python
 
 ### Sobre
 
-Pacote criado por Felipe Menino para facilitar as atividades desenvolvidas na aula de Matemática Computacional.
+Pacote criado por Felipe Menino para facilitar as atividades desenvolvidas nas aulas de Matemática Computacional.
